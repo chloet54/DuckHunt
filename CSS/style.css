@@ -1,0 +1,43 @@
+body{
+    background: rgb(9, 205, 231);
+}
+h1{
+    text-align: center;
+    border: 3px dashed green;
+    color: yellow;
+    font-size: 80px;
+    width: 450px;
+    margin-left: 38%;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+#container{
+    position: relative;
+    width: 800px;
+    height: 648px;
+    border: 1px solid black;
+    margin-left: 28%;
+    background-image: url(../img/water.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #7bafda;
+}
+
+
+.Canard{
+    position: absolute;
+    
+}
+
+#score{
+    position: relative;
+    width: 760px;
+    height: 120px;
+    border: 1px solid black;
+    margin-top: 82%;
+    background: white;
+    padding-left: 5%;
+}
+
+
